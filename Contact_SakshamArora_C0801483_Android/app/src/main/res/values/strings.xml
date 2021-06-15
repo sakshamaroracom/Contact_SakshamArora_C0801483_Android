@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contact_SakshamArora_C0801483_Android</string>
+    <string name="header">Enter Your Details Here</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="no_first">Compulsory Phone No</string>
+    <string name="number_se">Optional Phone No</string>
+    <string name="address">Address</string>
+    <string name="submit">submit</string>
+    <string name="edit_text">Edit Details</string>
+    <string name="delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Search">Search</string>
+</resources>
